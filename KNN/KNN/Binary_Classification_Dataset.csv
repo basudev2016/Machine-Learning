@@ -1,0 +1,201 @@
+Job_Role,Education_Level,Marital_Status,Age,Income,Experience,Target
+Clerk,Bachelor,Divorced,34,62049,10,0
+Technician,Bachelor,Married,44,67131,35,0
+Analyst,Bachelor,Divorced,46,72944,12,0
+Technician,Master,Divorced,56,103963,2,1
+Technician,Master,Married,62,54285,32,0
+Manager,PhD,Married,51,67626,5,1
+Analyst,PhD,Married,38,72808,9,1
+Analyst,High School,Single,41,118464,4,1
+Analyst,High School,Single,46,83871,22,0
+Technician,PhD,Single,43,49198,9,0
+Clerk,Master,Divorced,34,49758,1,0
+Analyst,Bachelor,Married,40,45254,12,0
+Technician,PhD,Divorced,57,74238,39,1
+Manager,High School,Single,33,31252,1,1
+Clerk,Master,Married,62,69764,19,1
+Manager,PhD,Divorced,40,107709,0,0
+Clerk,PhD,Married,33,67441,36,1
+Technician,Master,Divorced,30,83682,8,0
+Engineer,PhD,Married,28,89494,16,1
+Clerk,Master,Single,49,111317,8,0
+Manager,Bachelor,Single,35,95215,10,0
+Technician,Master,Married,52,108587,14,1
+Clerk,Master,Divorced,40,36949,23,1
+Engineer,Master,Single,37,85393,37,1
+Engineer,PhD,Single,26,103553,34,1
+Analyst,PhD,Single,56,36941,29,0
+Analyst,Master,Married,33,55934,30,1
+Manager,PhD,Married,46,53386,4,1
+Clerk,High School,Divorced,42,91886,13,1
+Clerk,High School,Divorced,57,105745,10,0
+Analyst,PhD,Divorced,44,113251,8,0
+Clerk,PhD,Married,37,83413,33,1
+Clerk,Master,Married,60,86800,11,0
+Engineer,Bachelor,Divorced,63,72318,34,1
+Analyst,PhD,Divorced,60,100173,34,0
+Technician,High School,Married,35,100390,0,0
+Analyst,Master,Divorced,52,82329,39,0
+Technician,PhD,Single,26,73088,21,0
+Engineer,High School,Married,56,69811,28,1
+Manager,High School,Divorced,44,85479,7,1
+Clerk,Bachelor,Married,50,115392,10,1
+Engineer,Master,Single,64,117369,36,0
+Clerk,Master,Married,32,49963,13,1
+Manager,Bachelor,Married,39,85123,29,1
+Manager,Bachelor,Married,33,103477,34,1
+Engineer,Master,Married,30,44388,20,0
+Manager,Master,Single,31,35569,36,0
+Technician,PhD,Married,38,99836,4,0
+Manager,PhD,Married,59,66586,18,1
+Clerk,Bachelor,Divorced,28,42015,13,1
+Clerk,PhD,Married,34,75002,25,1
+Clerk,High School,Divorced,61,36254,3,0
+Clerk,PhD,Single,63,47144,24,0
+Technician,PhD,Single,30,54214,24,1
+Analyst,High School,Single,48,110719,17,0
+Engineer,Bachelor,Single,23,101774,39,0
+Clerk,High School,Divorced,26,36090,7,0
+Manager,PhD,Married,50,41637,38,0
+Clerk,Bachelor,Single,58,52415,39,1
+Manager,PhD,Married,59,54071,13,0
+Manager,High School,Divorced,40,88243,31,0
+Clerk,High School,Divorced,29,71240,37,0
+Technician,PhD,Divorced,22,113807,32,0
+Manager,Master,Single,43,63434,22,1
+Manager,Master,Married,38,99724,14,1
+Clerk,High School,Married,28,105697,32,0
+Manager,High School,Married,46,58732,24,0
+Manager,Master,Divorced,25,41314,16,0
+Clerk,Master,Single,57,53954,32,0
+Clerk,PhD,Divorced,27,87108,1,0
+Engineer,PhD,Divorced,52,117044,13,0
+Technician,Master,Married,40,117505,39,1
+Technician,PhD,Divorced,60,66668,39,0
+Manager,PhD,Married,48,53061,38,1
+Technician,Bachelor,Single,31,109252,5,1
+Manager,PhD,Married,47,69749,5,0
+Engineer,High School,Single,40,46907,2,1
+Clerk,PhD,Married,60,48777,6,1
+Clerk,PhD,Divorced,24,81745,7,1
+Clerk,Master,Divorced,34,111818,14,1
+Technician,High School,Single,49,53624,28,1
+Engineer,PhD,Single,41,53321,32,1
+Technician,PhD,Single,49,40488,29,0
+Technician,Bachelor,Married,29,52574,38,1
+Engineer,PhD,Married,62,35240,26,1
+Engineer,PhD,Single,60,73221,35,1
+Engineer,Bachelor,Divorced,22,40478,28,0
+Engineer,Master,Married,24,85645,37,1
+Clerk,PhD,Married,34,49262,32,0
+Analyst,Bachelor,Married,49,82796,36,1
+Analyst,High School,Single,46,34432,26,0
+Engineer,Master,Single,54,94291,32,0
+Analyst,High School,Single,59,109104,3,1
+Analyst,High School,Single,27,89399,21,1
+Engineer,Bachelor,Single,53,109714,1,0
+Analyst,PhD,Divorced,42,80428,9,1
+Technician,Bachelor,Divorced,37,117731,4,0
+Manager,Bachelor,Single,42,30302,9,0
+Manager,Bachelor,Married,32,112558,32,0
+Engineer,Bachelor,Single,58,30055,37,0
+Clerk,Master,Divorced,57,38717,12,0
+Engineer,PhD,Divorced,56,58699,30,1
+Clerk,High School,Married,40,103686,35,0
+Manager,High School,Divorced,41,97661,23,0
+Engineer,PhD,Single,39,74247,14,1
+Technician,High School,Married,62,46748,28,0
+Analyst,PhD,Single,35,34621,7,1
+Clerk,High School,Single,36,45034,4,1
+Analyst,Bachelor,Married,52,35126,28,1
+Analyst,High School,Single,22,35122,3,0
+Engineer,PhD,Divorced,24,48030,11,0
+Analyst,PhD,Single,37,112838,1,0
+Technician,PhD,Married,44,114717,26,1
+Analyst,PhD,Married,32,85658,30,0
+Engineer,PhD,Married,33,68638,35,1
+Technician,Master,Single,31,97067,35,0
+Manager,Master,Married,53,118869,25,1
+Analyst,High School,Married,37,64674,26,0
+Engineer,PhD,Single,29,65854,4,0
+Manager,High School,Divorced,59,76271,19,0
+Manager,PhD,Single,33,103688,10,1
+Clerk,PhD,Married,45,68518,9,1
+Technician,Master,Married,49,40267,39,0
+Analyst,Master,Single,29,31062,37,0
+Engineer,Bachelor,Divorced,49,80448,5,1
+Clerk,Master,Married,57,36229,7,1
+Technician,Bachelor,Married,47,86793,22,1
+Clerk,Bachelor,Married,29,77915,25,0
+Technician,Bachelor,Single,49,34632,11,1
+Technician,Bachelor,Married,49,33596,25,0
+Analyst,Bachelor,Divorced,58,36168,12,1
+Technician,High School,Married,62,37561,39,0
+Clerk,Master,Married,57,103794,17,1
+Technician,Bachelor,Divorced,48,112152,24,1
+Analyst,PhD,Married,38,56734,32,1
+Analyst,Master,Single,30,36371,39,1
+Clerk,Master,Single,54,56069,11,1
+Manager,Bachelor,Single,41,109905,35,0
+Manager,High School,Divorced,34,42910,3,1
+Technician,Bachelor,Married,49,103479,4,1
+Engineer,High School,Single,50,107735,36,1
+Technician,PhD,Divorced,34,111264,7,0
+Clerk,Master,Married,56,53275,27,1
+Clerk,PhD,Divorced,27,102274,30,0
+Clerk,High School,Single,39,111449,8,1
+Clerk,High School,Single,26,90004,28,1
+Clerk,PhD,Single,46,92981,13,0
+Analyst,High School,Divorced,23,114659,39,1
+Manager,PhD,Divorced,31,84553,21,0
+Clerk,Master,Single,51,78447,10,0
+Engineer,PhD,Divorced,26,64529,22,1
+Engineer,Master,Single,54,105703,0,0
+Engineer,PhD,Single,22,106090,36,1
+Engineer,High School,Married,39,47260,20,1
+Analyst,PhD,Divorced,53,33812,25,0
+Engineer,High School,Single,32,58024,35,0
+Clerk,PhD,Single,42,88656,22,0
+Technician,PhD,Divorced,47,57285,0,0
+Engineer,Bachelor,Married,46,31605,39,1
+Analyst,High School,Married,43,101158,14,1
+Analyst,Bachelor,Single,48,102303,20,0
+Engineer,High School,Divorced,34,57139,8,1
+Technician,Bachelor,Married,54,107149,8,1
+Engineer,Master,Divorced,55,86138,9,1
+Analyst,PhD,Divorced,62,106125,25,1
+Manager,High School,Single,56,43918,34,0
+Clerk,High School,Married,22,115655,24,0
+Analyst,PhD,Single,42,57446,25,1
+Engineer,High School,Married,27,43046,10,0
+Clerk,High School,Married,49,54818,37,0
+Engineer,Bachelor,Married,38,34324,1,0
+Engineer,High School,Married,26,106323,6,1
+Manager,Master,Married,52,39111,17,1
+Clerk,Master,Divorced,26,68110,26,1
+Clerk,PhD,Single,59,46389,33,0
+Manager,High School,Divorced,24,71427,26,1
+Analyst,PhD,Married,44,109579,16,1
+Engineer,Master,Single,58,58746,23,0
+Technician,High School,Married,58,117886,24,1
+Engineer,High School,Single,31,30117,6,1
+Engineer,PhD,Divorced,31,114471,5,0
+Analyst,Master,Single,40,43234,23,0
+Engineer,High School,Single,38,83441,32,0
+Manager,PhD,Single,42,30846,28,1
+Manager,Master,Single,35,40954,21,1
+Clerk,PhD,Single,30,109239,25,1
+Technician,Bachelor,Married,22,76514,27,0
+Engineer,High School,Single,34,118236,20,0
+Engineer,Bachelor,Single,25,36469,6,1
+Analyst,Master,Divorced,22,60105,16,1
+Manager,Bachelor,Single,61,72101,19,0
+Technician,Bachelor,Divorced,53,94323,19,0
+Clerk,Master,Married,55,88067,21,0
+Manager,PhD,Single,49,79376,27,0
+Clerk,Bachelor,Divorced,52,75587,39,1
+Analyst,PhD,Divorced,29,66976,6,0
+Analyst,Bachelor,Married,60,97584,0,1
+Engineer,PhD,Single,47,108477,31,1
+Technician,Master,Single,55,72533,12,1
+Clerk,Bachelor,Divorced,24,31828,29,0
