@@ -1,0 +1,11 @@
+Transaction_ID,Transaction,Beer,Bread,Butter,Diaper,Eggs,Milk
+T001,"['Milk', 'Bread', 'Butter']",0,1,1,0,0,1
+T002,"['Milk', 'Bread']",0,1,0,0,0,1
+T003,"['Milk', 'Diaper', 'Beer', 'Eggs']",1,0,0,1,1,1
+T004,"['Bread', 'Butter']",0,1,1,0,0,0
+T005,"['Milk', 'Bread', 'Butter', 'Eggs']",0,1,1,0,1,1
+T006,"['Diaper', 'Beer']",1,0,0,1,0,0
+T007,"['Milk', 'Diaper', 'Bread']",0,1,0,1,0,1
+T008,"['Milk', 'Bread', 'Diaper', 'Beer']",1,1,0,1,0,1
+T009,"['Bread', 'Butter']",0,1,1,0,0,0
+T010,"['Milk', 'Eggs']",0,0,0,0,1,1
